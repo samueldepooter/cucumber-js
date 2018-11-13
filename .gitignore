@@ -1,1 +1,6 @@
 node_modules/
+
+# Editors and IDEs
+.idea
+*.iml
+.vscode/*
